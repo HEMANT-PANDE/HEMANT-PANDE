@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HEMANT-PANDE
-- 👀 I’m interested in New Technology 
+- 👀 I’m interested in Learning New Technology 
 - 🌱 I’m currently learning MERN-STACK
 - 📫 linkdin:https://www.linkedin.com/in/hemant-pande-2204262b2/
 - 😄 Pronouns: ...
