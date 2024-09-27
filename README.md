@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HEMANT-PANDE
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning fornt-end  
+- 👀 I’m interested in New Technology 
+- 🌱 I’m currently learning MERN-STACK
 - 📫 linkdin:https://www.linkedin.com/in/hemant-pande-2204262b2/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
