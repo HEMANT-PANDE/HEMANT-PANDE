@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hemant Pande</h1>
 <h3 align="center">Passionate Computer Engineer, Crafting the Web with MERN</h3>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, DSA**
+- 🌱 I’m currently working on **Reactjs, Nodejs, DSA**
 
 - 💬 Ask me about **C, C++, JavaScript, SQL, MongoDB**
 
